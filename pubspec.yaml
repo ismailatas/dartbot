@@ -1,0 +1,10 @@
+name: midyatKepenk
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies: 
+  excel: ^2.0.1
+  http: ^0.13.5
+
+  
